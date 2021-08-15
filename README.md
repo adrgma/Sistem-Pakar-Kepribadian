@@ -9,4 +9,7 @@ Program ini dibuat berdasarkan penelitian dari jurnal **"Sistem Pakar Untuk Meng
 
 
 ##Tampilan Aplikasi
-
+###Tampilan Home
+![image](https://user-images.githubusercontent.com/45851588/129475886-d3403c87-de5d-4536-94a6-e7b699f58250.png)
+###Tampilan Admin
+![image](https://user-images.githubusercontent.com/45851588/129475929-32228e6c-b0f1-4b2f-9b0e-a6f9474a9458.png)
